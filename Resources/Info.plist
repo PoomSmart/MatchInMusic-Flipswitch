@@ -27,6 +27,6 @@
 	<key>NSPrincipalClass</key>
 	<string>MatchInMusicSwitch</string>
 	<key>alternate-action-url</key>
-	<string>prefs:</string>
+	<string>prefs:root=MUSIC</string>
 </dict>
 </plist>
